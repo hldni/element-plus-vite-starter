@@ -14,6 +14,11 @@ If you just want an on-demand import example `manually`, you can check [unplugin
 
 ```bash
 npm install
+
+cnpm install @element-plus/icons-vue
+
+cnpm i @vueuse/core
+
 ```
 
 ### Compiles and hot-reloads for development
